@@ -2,21 +2,21 @@
 
 <a href="https://tecla21.ao">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://tecla21.ao/site-assets/logo/logo-header-dark.svg">
-<img src="https://tecla21.ao/site-assets/logo/logo-header-light.svg" alt="Tecla 21" height="80">
+<source media="(prefers-color-scheme: dark)" srcset="https://tecla21.ao/site-assets/logo/logo-dark.svg">
+<img src="https://tecla21.ao/site-assets/logo/logo-header-light.svg" alt="Tecla 21" height="120">
 </picture>
 </a>
 
-# Tecla 21 — Projetar & Programar
+# Tecla21 - Prestação de serviços, (SU), LDA
 
 Melhore os seus processos de software, garanta qualidade e suporte contínuo.<br>
-Somos a **Tecla 21**, parceiros no desenvolvimento do seu produto.
+Somos a **Tecla21**, parceiros no desenvolvimento do seu produto.
 
 <br>
 
 <a href="https://tecla21.ao"><img src="https://img.shields.io/badge/Website-tecla21.ao-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://github.com/Tecla21"><img src="https://img.shields.io/badge/GitHub-Tecla21-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="tel:+244922222628"><img src="https://img.shields.io/badge/Fale_connosco-+244_922_222_628-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Fale connosco"></a>
+<a href="tel:+244956949191"><img src="https://img.shields.io/badge/Fale_connosco-+244_965_949_191-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Fale connosco"></a>
 
 <br><br>
 
@@ -35,7 +35,7 @@ Somos a **Tecla 21**, parceiros no desenvolvimento do seu produto.
 
 Somos uma equipa que desenvolve produtos e serviços inovadores e criativos, com especial atenção aos sectores da **educação** e da **informação**.
 
-A Tecla 21 desenvolve e promove tecnologias de informação multiutilizador. Entregamos produtos de qualidade, dentro do prazo e com a melhor relação qualidade/preço.
+A Tecla21 desenvolve e promove tecnologias de informação multiutilizador. Entregamos produtos de qualidade, dentro do prazo e com a melhor relação qualidade/preço.
 
 ---
 
@@ -155,6 +155,7 @@ Uma selecção dos projectos que desenvolvemos com os nossos parceiros.
 
 <div align="center">
 <img align="center" alt="Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">&nbsp;
+<img align="center" alt="Ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">&nbsp;
 <img align="center" alt="Rails" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">&nbsp;
 <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
 <img align="center" alt="Maven" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">&nbsp;
@@ -174,7 +175,7 @@ Uma selecção dos projectos que desenvolvemos com os nossos parceiros.
 
 ## 🛍️ Loja
 
-Produtos e serviços disponíveis para compra na Tecla 21 — **Computadores** e **Figuras colecionáveis**.
+Produtos e serviços disponíveis para compra na Tecla21 — **Computadores** e **Figuras colecionáveis**.
 
 <div align="center">
 <a href="https://tecla21.ao/loja"><img src="https://img.shields.io/badge/Visitar_a_loja-tecla21.ao%2Floja-F97316?style=for-the-badge&logo=shopify&logoColor=white" alt="Visitar a loja"></a>
@@ -196,7 +197,7 @@ Estamos disponíveis para responder às suas questões e apresentar soluções a
 <td align="center" width="33%">
 <h2>☎️</h2>
 <b>Telefone</b><br>
-<sub><a href="tel:+244922222628">+244 922 222 628</a></sub>
+<sub><a href="tel:+244956949191">+244 956 949 191</a></sub>
 </td>
 <td align="center" width="33%">
 <h2>✉️</h2>
